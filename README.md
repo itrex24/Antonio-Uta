@@ -10,7 +10,7 @@ Skills: PYTHON / POWERSHELL / AZURE / GOOGLE CLOUD
 - 🌱 I’m currently learning Linux, IaC, CI/CD, Terraform, and Docker 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/itrex24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/antonio-uta-694949224//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/itrex24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/antonio-uta-694949224/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itrex24)](https://github.com/anuraghazra/github-readme-stats)
 
