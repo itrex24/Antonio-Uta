@@ -6,8 +6,8 @@ I'm Antonio from London, an IT enthusiast deeply embedded in the cloud and autom
 
 Skills: PYTHON / POWERSHELL / AZURE / GOOGLE CLOUD
 
-- 🔭 I’m currently working on getting my AZ-400 
-- 🌱 I’m currently learning Linux, IaC, CI/CD, Terraform, and Docker 
+- 🔭 I’m currently working on getting my AZ-400
+- 🌱 I’m currently learning Linux, IaC, CI/CD, Terraform, and Docker
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/itrex24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/antonio-uta-694949224/)  
