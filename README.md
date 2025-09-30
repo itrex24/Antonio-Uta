@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Antonio Uta
 #### Cloud and Development
-![Cloud and Development](https://media.licdn.com/dms/image/C5616AQH2QhvsFhAShQ/profile-displaybackgroundimage-shrink_350_1400/0/1655305917043?e=1714608000&v=beta&t=i9vBkpU0yGCCrhyVbZmW8C1q4V870K7fQAwdIB2nI_k)
 
 I’m an Infrastructure Engineer based in London, building my path toward Cloud and DevOps. I work across automation, scripting, and cloud environments — mostly with PowerShell, Python, and Azure — and I’m passionate about turning infrastructure into code and improving how systems are built and deployed.
 
